@@ -1,2 +1,4 @@
 # netlogoanimator
-animation in netlogo
+an animation maker in netlogo
+
+Annual Comp Sci - first semester final project
